@@ -1,0 +1,22 @@
+.polls li {
+    background-color: rgba(112, 66, 121, 0.717);
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+  }
+  
+  .polls li:nth-child(odd) {
+    background-color: #5b1421;
+  }
+  
+  .polls li:hover {
+    border: 2px solid aqua;
+  }
+  
+  .poll-title {
+    color: aqua;
+    font-size: 2rem;
+    margin-top: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+  }

@@ -1,0 +1,24 @@
+  
+@import './styles/base.css';
+@import './styles/reset.css';
+@import './styles/utilities.css';
+@import './styles/error.css';
+@import './styles/navbar.css';
+@import './styles/buttons.css';
+@import './styles/polls.css';
+@import './styles/form.css';
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #292a2d;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #e3405f;
+    border-radius: 5px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #e3405f;
+  }

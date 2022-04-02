@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #1D1D1D;
+    padding: 1rem 0;
+  }
+  
+  .navbar-brand {
+    background-color: #e3405f;
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .navbar-item {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .navbar-user {
+    margin-top: 0.5rem;
+    text-align: right;
+    color: #bbdefb;
+  }
+  
